@@ -29,6 +29,7 @@ Setelah membuat lagu "[Cliff's Edge](https://artists.landr.com/betweentwoedges),
 Harus saya akui, saya belum sepenuhnya siap untuk secara terbuka dan mendalam membahas alasan di balik lagu dan video musik ini. Namun, yang pasti adalah bahwa "Cliff's Edge: Shattered" adalah bentuk ekspresi jujur tentang apa yang telah saya bayangkan dan rasakan.
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f89c6745-ff62-483e-9708-46f770297f1b/width=525/f89c6745-ff62-483e-9708-46f770297f1b.jpeg)
+
 _Image Prompt \[Mystic 2.5 Flexible\]: A medium shot shows a solitary figure standing still in interior of his apartment. The figure is a middle-aged burly man with graying, medium wavy hair, wearing a dark blue shirt. He is looking off-screen towards the right, his expression a mixture of sadness and uncertainty. The setting is realistic, with a dark, desaturated color palette. The camera is at eye-level_
 ### Mengapa artikel ini?
 
@@ -57,6 +58,7 @@ Sebenarnya, selain "Cliff's Edge," saya punya beberapa lagu lain di "perpustakaa
 Tapi mengapa akhirnya memilih "Cliff's Edge"? Karena lagu ini sendiri lahir dari cerita pendek yang saya berkolaborasi dengan AI. Jadi, materi "Cliff's Edge" terasa lebih _familiar_, dan saya sudah punya gambaran seperti apa visualnya nanti. 
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4a2e2100-601a-4664-892a-b105c32e2a3f/width=525/4a2e2100-601a-4664-892a-b105c32e2a3f.jpeg)
+
 _Berikut timeline dari cerita pendek "The Edge of Us" sampai "Cliff's Edge: Shattered"_
 ### Versi "Yang Penting Jadi Dulu"
 
@@ -65,6 +67,7 @@ Sekarang, untuk menghindari kebiasaan lama saya: *procrastination* atau menunda-
 Maka, terciptalah "[Cliff's Edge: A Visual Ballad of Despair](https://youtu.be/L0my3c0l1fM)". Setelah ditinjau, jujur, video ini masih sangat sederhana dan tidak terlalu bagus. Bisa dibilang itu hanya kumpulan adegan orang sedih, dan sebagian besar _shot_ menunjukkan punggung atau belakang karakter. Kenapa? Saya khawatir membingungkan penonton dengan terlalu banyak perubahan karakter, mengingat keterbatasan alat AI yang saya gunakan. Jadi, ya, hal yang aman untuk dilakukan adalah membuat karakter "menghadap menjauh" dari kamera, agar tidak terlalu terlihat jelas jika mereka adalah orang yang berbeda. Tapi pada akhirnya, konsep tersebut malah jadi buruk dan tidak mampu menghubungkan emosi lagu dengan pendengar dan penonton.
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e9912367-017c-4ceb-82a9-74ea0c92ae29/width=525/e9912367-017c-4ceb-82a9-74ea0c92ae29.jpeg)
+
 _Image Prompt [Flux 1.0 Realism]: A cinematic, close-up shot at eye level captures the back of a burly man with medium wavy grey hair. His head is in his hands, a universal gesture of despair. The lighting is dim, with a single lamp providing the only light source, leaving most of the room in shadow. The atmosphere is introspective, self-critical, and somber. The colors are dark, with heavy shadows, focusing on the back of the man's head and obscuring any facial expression. (From Cliff's Edge: A Visual Ballad of Despair)_
 
 "Cliff's Edge: A Visual Ballad of Despair" dibuat dengan kombinasi gambar dari model Flux 1.0 Realism (Freepik) dan video dari Luma Dream Machine dan Runway Gen3. Setelah selesai, tanpa banyak berpikir, saya langsung _submit_ ke Project Odyssey Season 2. Saya juga membagikannya di Discord dan media sosial lainnya. Saat itu, jujur, saya merasa puas. Kenapa? Karena target utama saya tercapai: berpartisipasi dalam kompetisi Film AI dan _submit_ karya, _checklist_ selesai!
@@ -78,6 +81,7 @@ Untungnya, _deadline_ kompetisi masih cukup jauh, sekitar 15 hari lagi. Jadi, sa
 Tema dan gaya "Cliff's Edge: Shattered" sebenarnya tidak jauh berbeda, bahkan bisa dibilang mirip dengan iterasi sebelumnya, "Cliff's Edge: A Visual Ballad of Despair." Namun, perbedaan utama terletak pada visualisasinya. Di "Shattered," saya mencoba menyajikan visual yang lebih kuat, lebih detail, dan lebih _engaging_.
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ebb7a07-ea80-4923-b026-dc473ca31f0a/width=525/8ebb7a07-ea80-4923-b026-dc473ca31f0a.jpeg)
+
 _Image Prompt [Mystic 2.5 Flexible]: A medium, low-angle shot of a burly man, sitting on the edge of a bed in a sparsely furnished apartment. He is a middle-aged man with graying, wavy hair, wearing a plain, dark t-shirt and trousers. He has a dejected, hopeless expression, and his head is now slightly bowed. The apartment walls are bare and off-white, and the only light source is a single, naked lightbulb hanging from the ceiling. The overall mood is one of despair, hopelessness, and being consumed by darkness. The style is dark, stark, and realistic._
 
 Saya tidak hanya menyalin _prompt_ yang telah saya buat di "A Visual Ballad of Despair" ke model gambar dan video yang baru. Saya benar-benar memulai prosesnya dari awal lagi. Mulai dari membuat _storyboard_ yang lebih detail, hingga daftar _prompt_ yang lebih terstruktur dan spesifik untuk "Cliff's Edge: Shattered." Seperti apa proses detailnya? Nah, akan saya bahas lebih dalam di bab selanjutnya.
@@ -111,6 +115,7 @@ Biayanya adalah 12.8 USD, atau jika dikonversi ke Rupiah sekitar 217.000 IDR. De
 Oh iya, ada satu lagi "anggaran" tersembunyi yang tidak tercantum dalam tabel, tetapi perannya sangat krusial: Large Language Model (LLM)! Saya sangat mengandalkan **Gemini 1206 Experimental** dan **Gemini 2.0 Flash Thinking Experimental** dari Google yang saat itu masih gratis (dan sekarang juga). Saya menggunakan [Google AI Studio](https://aistudio.google.com/) dan API. Jujur, tanpa akses gratis ke Gemini, mungkin "Cliff's Edge: Shattered" tidak akan pernah dibuat.
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/584c8236-c944-457b-958d-86d80f90d833/width=525/584c8236-c944-457b-958d-86d80f90d833.jpeg)
+
 _Image Prompt [Mystic 2.5 Flexible]: A medium, eye-level shot of a man sitting alone at a table in a dimly lit diner. He is a middle-aged burly man with graying, wavy hair, a weary expression, and dark circles under his eyes, wearing a simple, dark shirt. He is motionless, staring blankly out the rain-streaked window, seemingly lost in thought. The diner's interior is dimly lit, with worn booths and a counter. The flickering neon sign from the previous shot casts an unsettling glow on the window and on the face. The overall mood is one of isolation, despair, and being trapped in one's thoughts. The style is dark, cinematic, and realistic._
 ## **Gambaran Alur Kerja**
 
@@ -121,6 +126,7 @@ Alur kerja yang saya buat ini diharapkan dapat menjadi referensi atau titik awal
 Anda dapat melihat gambar alur kerja lengkap dari ["Cliff's Edge: A Visual Ballad of Despair" (versi AVBD) di sini](https://github.com/taruma/cliffsedge/blob/main/cliffs_edge_workflow_20250101.png) (berbahasa inggris). Sedikit berbeda dari versi Shattered, tetapi setidaknya dapat memberi gambaran seperti apa proses lengkapnya.
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/893ad575-254a-418e-8e3b-5b3f8a464938/width=525/893ad575-254a-418e-8e3b-5b3f8a464938.jpeg)
+
 _Dari cerita pendek ke layar: Alur kerja pembuatan Cliff's Edge: Shattered_
 
 Dari alur kerja yang saya lampirkan di atas, ada **10 tahap utama** dalam pembuatan "Cliff's Edge: Shattered". Alur dimulai dengan membuat cerita pendek untuk dijadikan dasar narasi (**Cerita - tahap 1**). Cerita pendek ini kemudian menjadi dasar untuk menulis lirik lagu [dengan bantuan Gemini](https://github.com/taruma/cliffsedge/blob/main/system-instruct/music-professor.md) (**Lirik - tahap 2**). Setelah lirik selesai, langkah selanjutnya adalah membuat lagu menggunakan Suno AI (**Lagu - tahap 3**).
@@ -138,6 +144,7 @@ Langkah selanjutnya adalah membuat _storyboard_ (**Storyboard - tahap 5**). _Sto
 Selama proses _storyboard_ (**Storyboard - tahap 5**), saya mulai membayangkan alur cerita video musik di kepala saya. Saya ["meminta"](https://github.com/taruma/cliffsedge/blob/main/system-instruct/storyboard-maestro.md) Gemini untuk membuat adegan pembuka dan penutup yang harus menggambarkan tepi tebing dengan karakteristik yang saya pikirkan. Untuk bagian _chorus_, saya juga mengarahkannya untuk memvisualisasikan adegan di tepi tebing juga, tetapi dengan nuansa yang kontras (antara mimpi dan kenyataan) dengan ekspresi dan pose subjek yang berbeda juga.
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0f6c7916-ee25-4954-821c-7e535af5f6a2/width=525/0f6c7916-ee25-4954-821c-7e535af5f6a2.jpeg)
+
 _Shot 10 di Storyboard_
 
 _Storyboard_ cukup detail, berisi info tentang durasi setiap _shot_, jenis _shot_, sudut kamera, gerakan kamera, dan deskripsi adegan termasuk lokasi (EXT/INT/LOKASI), waktu (WAKTU), subjek utama, gerakan subjek, latar belakang, dan gerakan latar belakang. Detail tentang [instruksi sistem](https://github.com/taruma/cliffsedge/blob/main/system-instruct/storyboard-maestro.md) yang saya gunakan untuk Gemini, dan bagaimana saya melakukan _few-shot prompting_ sebelum meminta Gemini membuat _storyboard_, akan saya bahas lebih lanjut di artikel berikutnya.
@@ -151,6 +158,7 @@ Setelah draf _storyboard_ selesai (**Storyboard - tahap 5**), barulah membuat _P
 Idealnya, alur kerja yang lebih "terorganisir" mungkin melibatkan fokus pada pembuatan gambar terlebih dahulu, dan kemudian menghasilkan _prompt_ video berdasarkan gambar-gambar tersebut (benar kan? Saya juga masih meraba nih. 🤣). Tujuannya, agar kita bisa mengecek dulu apakah visualnya sudah sesuai sebelum beralih ke pembuatan _prompt_ video. Tapi, proses itu akan memakan waktu lebih lama. Sebagai solusi, saya memilih jalan pintas: saya hanya menggunakan intuisi untuk membuat _prompt_ video jika _prompt_ Gemini kurang tepat.
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6b0c6fb9-8171-46d8-8c69-380b2c8b81d7/width=525/6b0c6fb9-8171-46d8-8c69-380b2c8b81d7.jpeg)
+
 _Prompt gambar dan video untuk Shot 10_
 
 Setelah mendapatkan _Prompt_ Gambar (**Prompt Gambar - tahap 6a**), saya menghasilkan gambar untuk setiap _shot_ menggunakan Mystic 2.5 Flexible (**Gambar Frame Pertama - tahap 7**). Hasil gambar ini (**Gambar Frame Pertama - tahap 7**) kemudian digunakan sebagai _frame_ pertama untuk generasi video (**Klip Video yang Dihasilkan - tahap 8**).
@@ -181,6 +189,7 @@ Jujur, menemukan kata-kata pembuka untuk "Cliff's Edge: Shattered" (_"If this st
 Setelah merasa puas dengan semua aspek, dan setelah menunggu setidaknya 1-2 hari untuk "mendinginkan kepala" dan menonton video dengan mata dan kepala yang lebih segar, saya kemudian _submit_ "Cliff's Edge: Shattered" ke Project Odyssey Season 2.
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/24bfa77f-7da7-4765-9fab-416c1d6e854b/width=525/24bfa77f-7da7-4765-9fab-416c1d6e854b.jpeg)
+
 _Image Prompt [Mystic 2.5 Flexible]: A medium shot captures a burly man on a tranquil cliff, bathed in the warm, golden light of a sunny afternoon. The figure, seen from the chest up, has thick, wavy hair, a mix of gray and dark brown, with gray predominating at the temples. He wears a simple, dark, button-down shirt. His features are strong but softened by a gentle expression as he listens intently, head tilted slightly to the side. The background is a blurred, slightly desaturated image of the serene cliff edge and the calm, blue ocean, reminiscent of a fading memory. The overall aesthetic is dreamlike, with a soft focus and a muted, yet still colorful, palette._
 ## __*Is this the end, or can I still leap?*__
 
@@ -191,6 +200,7 @@ Namun melihat kembali seluruh pengalaman ini, dari ragu-ragu memasuki Project Od
 Karena hal terpenting yang bisa diambil dari pembuatan "Cliff's Edge: Shattered" bukanlah tentang mengikuti diagram secara kaku, atau tiba-tiba menjadi _prompting pro_ dalam semalam. Ini tentang sesuatu yang jauh lebih sederhana, dan jauh lebih menginspirasi: **kreativitas manusia masih sangat penting.**
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/88501837-dae8-4bed-9b42-a5a856a6df6e/width=525/88501837-dae8-4bed-9b42-a5a856a6df6e.jpeg)
+
 _Image Prompt [Mystic 2.5 Flexible]: A cinematic, wide shot at eye-level captures a serene cliff edge bathed in bright, natural sunlight, with a vast ocean visible from his views. A burly man with medium wavy grey hair sits on the cliff edge, seen from behind, while wearing colorful beach unbuttoned shirt. His both hand on his side. The ocean is calm and inviting. The atmosphere is calming, comforting, and ethereal, with a soft, dreamlike quality. The colors are bright and saturated, with a slightly brighter light around where a silhouette of 'Ruff' will appear._
 
 Awalnya, bahkan saya sendiri ragu apakah saya bisa membuat Film AI! Tetapi setelah terjun ke "Cliff's Edge: Shattered," saya dapat dengan jujur mengatakan bahwa saya benar-benar menikmati proses kreatifnya. Memang menantang, ya, dan terkadang membingungkan, tetapi sangat memuaskan. Dan itulah keajaiban yang benar-benar saya temukan dengan Film AI. Bukan tentang AI yang melakukan segalanya untuk kamu. Ini tentang alat AI yang menjadi pengembang dari kreativitas Anda. Dan pada akhirnya, itulah keindahannya yang sebenarnya. Dengan AI menjadi lebih mudah diakses, lebih banyak orang dapat mengekspresikan diri secara audio visual. Dan saya benar-benar percaya bahwa itu adalah hal yang positif. Ini membuka jalan baru untuk kreativitas dan berekspresi bagi semua orang.
