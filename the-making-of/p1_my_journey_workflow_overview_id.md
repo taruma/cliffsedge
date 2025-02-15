@@ -8,9 +8,10 @@ Halo semuanya, nama saya Taruma Sakti. Saya adalah kreator dari Video Musik AI b
 
 Tonton "Cliff's Edge: Shattered - A Poignant Music Video" di sini: [https://civitai.com/images/50911144](https://civitai.com/images/50911144)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tr7F5RPwyhU?si=DdYk6rh9z4pP5FNS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/tr7F5RPwyhU/0.jpg)](https://www.youtube.com/watch?v=tr7F5RPwyhU)
 
-_Langsung ke bagian **Alur Kerja** kalau tertarik dengan alur kerjanya saja_
+
+_Langsung ke bagian **Gambaran Alur Kerja** jika tertarik dengan alur kerjanya saja_
 
 Links:
 
@@ -162,7 +163,8 @@ Setelah [mengumpulkan ratusan klip video](https://youtu.be/HoTOFp_S0tA) dari Kli
 
 Mengingat pengetahuan dan pengalaman _video editing_ saya yang sangat terbatas, saya memilih transisi yang paling sederhana: _cut_ dan _fade in/out_. Selain itu, karena ini adalah video musik, saya harus memastikan bahwa transisi antar _shot_ sesuai dengan ritme lagu, tanpa terasa canggung atau mengganggu alur musik. Oh, saya juga harus belajar tentang _color correction_ dan _grading_, yang, bahkan sekarang, saya masih tidak mengerti. Apalagi karena saya buta warna parsial, jadi saya selalu tidak yakin apakah pilihan warna saya sudah benar atau tidak. (help? 🤣) Jika Anda melihat visual yang terlalu kontras atau pucat, kemungkinan besar saya tidak menyadarinya awalnya.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FTT41q-8FRY?si=hKRRJxmy0oUWZmq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/FTT41q-8FRY/0.jpg)](https://www.youtube.com/watch?v=FTT41q-8FRY)
+
 
 Tidak semua klip dari generasi video (**Klip Video yang Dihasilkan - langkah 8**) langsung sesuai dengan visi saya. Seringkali, saya harus kembali ke _storyboard_ (_Storyboard_ - langkah 5) dan bereksperimen dengan _prompt_ gambar baru (_Prompt_ Gambar - langkah 6a) atau _prompt_ video (_Prompt_ Video - langkah 6b).
 
