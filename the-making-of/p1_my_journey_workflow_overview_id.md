@@ -1,4 +1,4 @@
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ca0d045-d17e-4fbb-9478-01a28d038cc7/width=1320,optimized=true/CE2_POSTER-15-The%20Making%20Of%20-%20P2.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1dce22ec-455f-4645-a36a-1bd00b1c2778/width=1320,optimized=true/CE2_POSTER-14-The%20Making%20Of%20-%20P1.jpeg)
 
 # Proses Pembuatan Cliff's Edge: Shattered - Perjalanan & Gambaran Alur Kerja Saya
 
